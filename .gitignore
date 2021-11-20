@@ -1,6 +1,7 @@
 node_modules/
 public/styles
 .env
+config/config.env
 *.log
 *.sqlite3
 ## Ignore Visual Studio temporary files, build results, and
